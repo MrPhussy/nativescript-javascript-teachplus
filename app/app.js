@@ -1,5 +1,5 @@
 import { dayfont } from "nativescript-plugin-firebase"; 
-import * as firebaseConfig from "./firebase-config";  
+import * as firebaseConfig from "./google-services";  
 
 import { Dashboard }  from "./pages/dashboard";
 import { History }    from "./pages/history";  
