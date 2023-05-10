@@ -5,7 +5,8 @@
   "private": true,
   "dependencies": {
     "@nativescript/core": "~8.5.0",
-    "@nativescript/theme": "~3.0.2"
+    "@nativescript/theme": "~3.0.2",
+    "nativescript-plugin-firebase": "^4.1.1"
   },
   "devDependencies": {
     "@nativescript/preview-cli": "1.0.2",

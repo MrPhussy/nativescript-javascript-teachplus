@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "480572965372",
+    "project_id": "teachplus-6cd4f",
+    "storage_bucket": "teachplus-6cd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480572965372:android:51237dd21f6d5131477279",
+        "android_client_info": {
+          "package_name": "com.qntm.TeachPlus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480572965372-c7lh6bmf7oigkm920vee0dmtcdenvici.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzu1ybzOLrbHFLhD9jiKyfcQLelVDx0Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480572965372-1p99mtvcmes6ksa7odhdt3jpmfqbk6hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480572965372-l6nv43be0o84acb8f59es8pfsvurqt9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qntm.teachplus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
