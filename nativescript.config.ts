@@ -1,11 +1,11 @@
 import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
-  id: 'org.nativescript.app',
+  id: 'org.qntm.app',
   appPath: 'app',
   appResourcesPath: 'App_Resources',
   android: {
     v8Flags: '--expose_gc',
-    markingMode: 'none'
-  }
+    markingMode: 'none',
+  },
 } as NativeScriptConfig;
